@@ -5,10 +5,9 @@ title: "Crowded and Concentrated? A Density Paradox in Nonprofit Markets — R2 
 authors:
   - family-names: Thornton
     given-names: Jeremy
-version: "r2-2026-09-30"
+version: "r2-2026-09-30.1"
 date-released: 2026-09-30
-doi: "10.5281/zenodo.23067000"
-url: "https://doi.org/10.5281/zenodo.23067000"
+url: "https://github.com/jthornton51/crowded-and-concentrated-replication/releases/tag/r2-2026-09-30.1"
 repository-code: "https://github.com/jthornton51/crowded-and-concentrated-replication"
 abstract: "Code, deposited analysis inputs, reference outputs, and verification records for the R2 manuscript. Reproduces concentration, concordance, net organizational growth, reporting sensitivities, and figures."
 keywords:

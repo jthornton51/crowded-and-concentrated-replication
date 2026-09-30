@@ -2,7 +2,7 @@
 
 This package reproduces the empirical analyses for *Crowded and Concentrated? A Density Paradox in Nonprofit Markets*, R2 manuscript version dated 30 September 2026, by Jeremy Thornton.
 
-**Version r2-2026-09-30.** Complete data and code archive: [Zenodo, DOI 10.5281/zenodo.23067000](https://doi.org/10.5281/zenodo.23067000). Code and documentation: [GitHub](https://github.com/jthornton51/crowded-and-concentrated-replication). Download the complete Zenodo archive to run the analysis; a GitHub source checkout alone omits the large analysis inputs.
+**Version r2-2026-09-30.1.** Complete data and code archive: [GitHub Release](https://github.com/jthornton51/crowded-and-concentrated-replication/releases/tag/r2-2026-09-30.1). Code and documentation: [GitHub](https://github.com/jthornton51/crowded-and-concentrated-replication). Download the attached complete replication ZIP from the release to run the analysis; a GitHub source checkout alone omits the large analysis inputs.
 
 ## Reproduce the analysis
 
@@ -47,6 +47,8 @@ The original panel's `private_contributions` column contains gross contributions
 
 ## Archive and citation
 
-Thornton, Jeremy (2026). *Crowded and Concentrated? A Density Paradox in Nonprofit Markets — R2 replication package* (r2-2026-09-30). Zenodo. https://doi.org/10.5281/zenodo.23067000
+Thornton, Jeremy (2026). *Crowded and Concentrated? A Density Paradox in Nonprofit Markets — R2 replication package* (r2-2026-09-30.1). GitHub. https://github.com/jthornton51/crowded-and-concentrated-replication/releases/tag/r2-2026-09-30.1
 
-The GitHub release tag is `r2-2026-09-30`. `CITATION.cff` provides machine-readable citation metadata. The full archive's `FILES.csv` and `SHA256SUMS.txt` identify its contents independently of repository history. Author-owned code and documentation use the MIT license; third-party data retain their provider terms, as described in `LICENSES.md`.
+The GitHub release tag is `r2-2026-09-30.1`. `CITATION.cff` provides machine-readable citation metadata. The full archive's `FILES.csv` and `SHA256SUMS.txt` identify its contents independently of repository history. Author-owned code and documentation use the MIT license; third-party data retain their provider terms, as described in `LICENSES.md`.
+
+This release changes hosting and citation metadata only; its analysis code, data, reference results, and verification evidence are unchanged from the verified September 30 package. No archival DOI has been assigned to this GitHub release.
