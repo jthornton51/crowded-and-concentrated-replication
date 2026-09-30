@@ -1,0 +1,4 @@
+data.table 1.18.4 
+fixest 0.14.2 
+diptest 0.77.2 
+ggplot2 4.0.3 

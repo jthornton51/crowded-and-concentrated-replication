@@ -1,0 +1,10 @@
+pair,measure,N,mean,reference_mean
+private_public,pearson,48029,0.577071259573887,0.577
+private_client,pearson,66686,0.176296136829969,0.176
+public_client,pearson,47561,0.216770011858951,0.217
+private_public,spearman,48029,0.469131835883263,0.469
+private_client,spearman,66686,0.026313366615454,0.026
+public_client,spearman,47561,0.233429469707463,0.233
+private_public,partial,45626,0.49033748269684,0.49
+private_client,partial,59068,-0.0918522533706681,-0.092
+public_client,partial,45466,0.0389902159113402,0.039

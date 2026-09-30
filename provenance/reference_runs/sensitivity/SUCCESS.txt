@@ -1,0 +1,4 @@
+Completed 999-draw CBSA cluster-bootstrap sensitivity comparisons.
+Input: C:/Users/jptho/repos/crowded-and-concentrated/output/revisions/NVSQ_R2_2026-09/rebuild/coupling_20260916_114909
+Exclusions change the population; they are not proof that records removed are erroneous.
+Period_verified excludes flagged unmatched repeated keys, not a claim of exact filing linkage for every retained record.

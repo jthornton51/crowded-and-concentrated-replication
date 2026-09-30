@@ -1,0 +1,46 @@
+Warning message:
+package 'data.table' was built under R version 4.6.1 
+Output: <PACKAGE_ROOT>/output/revisions/NVSQ_R2_2026-09/rebuild/coupling_20260930_120015 
+Original year 2012 
+Constructing market measures: original_rows rows 461274 
+Original year 2013 
+Constructing market measures: original_rows rows 464093 
+Original year 2014 
+Constructing market measures: original_rows rows 467125 
+Original year 2015 
+Constructing market measures: original_rows rows 471785 
+Original year 2016 
+Constructing market measures: original_rows rows 472798 
+Original year 2017 
+Constructing market measures: original_rows rows 483470 
+Original year 2018 
+Constructing market measures: original_rows rows 485963 
+Original year 2019 
+Constructing market measures: original_rows rows 476311 
+Original year 2020 
+Constructing market measures: original_rows rows 468373 
+Original year 2021 
+Constructing market measures: original_rows rows 469682 
+R1 Pearson, rank and partial correlations reproduced.
+Selected year 2012 
+Constructing market measures: selected_policy rows 459698 
+Selected year 2013 
+Constructing market measures: selected_policy rows 462434 
+Selected year 2014 
+Constructing market measures: selected_policy rows 465032 
+Selected year 2015 
+Constructing market measures: selected_policy rows 469637 
+Selected year 2016 
+Constructing market measures: selected_policy rows 470301 
+Selected year 2017 
+Constructing market measures: selected_policy rows 472343 
+Selected year 2018 
+Constructing market measures: selected_policy rows 474117 
+Selected year 2019 
+Constructing market measures: selected_policy rows 472378 
+Selected year 2020 
+Constructing market measures: selected_policy rows 463294 
+Selected year 2021 
+Constructing market measures: selected_policy rows 464472 
+Constructing market measures: selected_reporters_only rows 697308 
+SUCCESS: <PACKAGE_ROOT>/output/revisions/NVSQ_R2_2026-09/rebuild/coupling_20260930_120015 

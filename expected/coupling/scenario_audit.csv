@@ -1,0 +1,4 @@
+scenario,n_orgs,market_years,unknown_markets,floored_orgs,floor_dollars,period_unverified_markets
+original_rows,4720874,77489,0,1707,2604874169,0
+selected_policy,4673706,77489,11,1620,2474015582,88
+selected_reporters_only,697308,49925,0,1620,2474015582,22

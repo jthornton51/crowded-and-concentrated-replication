@@ -1,0 +1,32 @@
+exhibit,script,output_group,output_file,selection
+Table 1A,r2_16_submission_exhibits.R,exhibits,table1_sector.csv,Selected organization-years; sector participation percentages
+Table 1B,r2_16_submission_exhibits.R,exhibits,table1_sector.csv,Mean revenue conditional on positive revenue within each stream
+Table 2A,r2_16_submission_exhibits.R,exhibits,table2_recent_sector.csv,2020-2021 positive-revenue markets without unresolved amounts
+Table 2B,r2_16_submission_exhibits.R,exhibits,table2_recent_sector.csv,Counts and reciprocal private HHI; eligible pair means
+Table 2C,r2_16_submission_exhibits.R,exhibits,table2_recent_sector.csv,Mean CR4 by stream in the recent Table 2 population
+Table 3,r2_16_submission_exhibits.R,exhibits,table3_hhi_correlations.csv,Across-market active-side HHI correlations by sector
+Table 4,r2_15_combined_descriptives_and_tables.R,tables,bimodality.csv,Selected policy; n_ge10 and high_reporting_2020_21_n_ge10
+Table 5,r2_12_corrected_coupling.R,coupling,paired_coupling.csv,Selected policy full sample; Pearson/Spearman/partial/participation_phi/positive_spearman
+Table 6 Active + concordance,r2_13_corrected_net_growth.R,tables,growth_display.csv,Selected policy common_coupling net_active_joint joint
+Table 6 Active sides only,r2_13_corrected_net_growth.R,tables,growth_display.csv,Selected policy full net_active_joint HHI_only
+Table 6 CBSA-sector FE,r2_13_corrected_net_growth.R,tables,growth_display.csv,Selected policy full net_activity_indicators HHI_only CBSA-sector FE
+Table 6 Activity indicators,r2_13_corrected_net_growth.R,tables,growth_display.csv,Selected policy full net_activity_indicators HHI_only
+Appendix A1,r2_16_submission_exhibits.R,exhibits,reporting_original_by_year_form.csv,Original analytic rows by year and form
+Appendix A2,r2_16_submission_exhibits.R,exhibits,reporting_selected_by_year_form.csv,Selected organization-years by year and form
+Appendix A3,r2_16_submission_exhibits.R,exhibits,reporting_annual.csv,Selected-policy annual reporting percentages
+Appendix A4,r2_16_submission_exhibits.R,exhibits,sample_counts.csv,Also original reporting counts; tables/headline.csv; growth/model_samples.csv
+Appendix A5,r2_15_combined_descriptives_and_tables.R,tables,headline.csv,Original rows; selected policy; reporters only; active mean/all three
+Appendix B1,r2_16_submission_exhibits.R,exhibits,bimodality_by_size.csv,Active observed HHIs by stream and ordered size stratum
+Appendix C1,r2_12_corrected_coupling.R,coupling,paired_coupling.csv,Selected policy; seven sample restrictions; Pearson/Spearman/partial
+Appendix D1,r2_16_submission_exhibits.R,exhibits,health_growth.csv,Health-only/excluding Health; active-joint/activity-indicator HHI coefficients
+Appendix D2 Active joint,r2_13_corrected_net_growth.R,growth,coefficients.csv,Selected policy net_active_joint; predictor-year reporting20/30/40/recent/no-floor; fitted N from model_samples.csv
+Appendix D2 Activity indicators,r2_13_corrected_net_growth.R,growth,coefficients.csv,Selected policy net_activity_indicators; predictor-year reporting20/30/40/recent/no-floor; fitted N from model_samples.csv
+Figure 1,r2_16_submission_exhibits.R,exhibits,figure1.png,Active-side HHI histograms by sector
+Figure 2,r2_16_submission_exhibits.R,exhibits,figure2.png,Within-market Pearson concordance distributions by eligible pair
+Figure 3,r2_16_submission_exhibits.R,exhibits,figure3.png,2020-2021 mean concordance by sector and eligible pair
+Appendix Figure B1,r2_16_submission_exhibits.R,exhibits,appendix_b1.png,Active-side HHI distributions by organization-count stratum
+Appendix Figure B2,r2_16_submission_exhibits.R,exhibits,appendix_b2.png,Boundary mass by stream and organization-count stratum
+Appendix C floor/period comparisons,r2_14_coupling_sensitivities.R,sensitivity,paired_sensitivities.csv,Selected policy no-floor and period-verified sensitivity rows
+Appendix C original-selected comparison,r2_12_corrected_coupling.R,coupling,common_policy_coupling.csv,Common markets under original and selected policies
+Headline density-concentration,r2_15_combined_descriptives_and_tables.R,tables,headline.csv,Selected policy active_mean
+Count-density reconciliation,r2_16_submission_exhibits.R,exhibits,density_bridge_groups.csv,Human Services original/selected positive-revenue and unresolved groups; newly generated supplemental output

@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-30",
+  "status": "Approved submission edits applied and verified; public release and archival verification pending",
+  "analysis_repository": "C:\\Users\\jptho\\repos\\crowded-and-concentrated",
+  "files": [
+    {
+      "file": "MAIN_crowded_concentrated_R2_revised_2026-09-25.docx",
+      "sha256": "7d7d0a4405db64288eabcecb7eeb332fb03ba744aeb7797a98395864f769d2dc",
+      "bytes": 51838,
+      "pages": 27,
+      "paragraph_words": 6778,
+      "tables": 2,
+      "native_equations": 8
+    },
+    {
+      "file": "TABLES_FIGURES_R2_working.docx",
+      "sha256": "f92ad67368316101ae0103484c84ae41870ca3c72aa8a0fe2f347054d14c0b80",
+      "bytes": 250096,
+      "pages": 7,
+      "paragraph_words": 832,
+      "tables": 12,
+      "native_equations": 0
+    },
+    {
+      "file": "APPENDIX_R2_working.docx",
+      "sha256": "3ff5593a5d489b2d358aacfd96592b61b4928ea0135a90dfe4722acc15d6b86d",
+      "bytes": 199508,
+      "pages": 9,
+      "paragraph_words": 921,
+      "tables": 10,
+      "native_equations": 0
+    },
+    {
+      "file": "Editor Letter_R2_working.docx",
+      "sha256": "f2e8461bfe423c985e20b1daeac0b0dd3001b1ae13755b2a8dd113f1836f1389",
+      "bytes": 13762,
+      "pages": 2,
+      "paragraph_words": 464,
+      "tables": 0,
+      "native_equations": 0
+    },
+    {
+      "file": "Referee Responses_R2_revised_2026-09-28.docx",
+      "sha256": "aca2d807217ea5caf85a1613636e6ff36abeb44d7a478e42113199ee9cfe7d62",
+      "bytes": 18805,
+      "pages": 4,
+      "paragraph_words": 1384,
+      "tables": 0,
+      "native_equations": 0
+    },
+    {
+      "file": "TITLE_R2_working.docx",
+      "sha256": "a621cd8a21b7a40c9056db4ca9c069e91a57119b801fd1ffb011ffa32d237870",
+      "bytes": 24269,
+      "pages": 1,
+      "paragraph_words": 179,
+      "tables": 0,
+      "native_equations": 0
+    }
+  ]
+}

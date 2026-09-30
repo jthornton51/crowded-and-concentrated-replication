@@ -1,0 +1,6 @@
+Completed: R1 correlation and market baselines reproduced; selected gross markets independently reproduced.
+Paired gaps use common eligible markets within each measure, 999 CBSA cluster bootstrap draws, percentile intervals.
+Policy-comparison gross/net columns denote ORIGINAL/SELECTED corrected quantities respectively.
+High-reporting samples require at least 20% of organizations to report the grant field, 2020-2021; R1 HQ flags are kept only for the R1 reference check in r2_13. Strict coverage is a conservative EIN/year audit, not exact filing linkage.
+Reporter-only results describe observed reporters, not full markets. Positive-recipient ranks describe a selected subset.
+No permutation-tail, top-overlap, causal, or equivalence claim is made. Unknown grants are not inactivity.

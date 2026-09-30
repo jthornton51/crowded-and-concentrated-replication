@@ -1,0 +1,13 @@
+# The full data/code archive is a release asset; large inputs do not enter Git.
+/data/
+/inputs/
+/output/
+/r-library/
+/verification/*/
+!/verification/certified/
+!/verification/certified/**
+/__pycache__/
+*.pyc
+*.zip
+.Rhistory
+.RData

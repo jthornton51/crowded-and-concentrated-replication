@@ -1,0 +1,7 @@
+Completed: five original specifications reproduce stored N and rounded coefficients.
+Consecutive-year net growth, contemporaneous ACS controls, lag-year HHIs/concordance/reporting; CBSA clustered inference.
+Gross_zero is the baseline coding; net_zero isolates the revenue correction; net_active_joint and net_activity_indicators handle inactivity.
+Common_policy holds eligible market-year keys fixed across original/selected, but filing corrections can change outcomes and regressors.
+Common_coupling holds gross and corrected concordance eligibility fixed within each filing scenario.
+Unknown selected grants exclude affected market-years before lags, not as zero activity. Reporter-only headlines do not describe full markets.
+Strict coverage and reporter thresholds change the population. No causal interpretation or equivalence claim.

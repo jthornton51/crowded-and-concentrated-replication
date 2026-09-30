@@ -1,0 +1,78 @@
+model,eligible_N,estimated_N,CBSAs,r2,within_r2,status,collinear_terms,fixed_effects
+R1_reference__M1 HHI-only (common),42017,42015,933,0.0599071615374217,0.0274643353316896,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+R1_reference__M2 concordance-only (common),42017,42015,933,0.0594185236790217,0.026958834465224,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+R1_reference__M3 joint (common),42017,42015,933,0.0599547757458777,0.0275135927177411,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+R1_reference__M4 HHI-only (full sample),67969,67968,938,0.0585211645629006,0.0389232371948994,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+R1_reference__M5 HQ 2020-21 joint,7049,7034,927,0.163681174714169,0.0291278745505974,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__full__gross_zero__HHI_only,67969,67968,938,0.0585211645629006,0.0389232371948994,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__full__net_zero__HHI_only,67969,67968,938,0.058308598167117,0.038706245993556,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__full__net_active_joint__HHI_only,41922,41921,933,0.0630201397818813,0.0298975849047304,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__full__net_activity_indicators__HHI_only,67969,67968,938,0.0618930124602438,0.0423652738502909,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__full__net_activity_indicators__CBSA_sector_FE,67969,67904,938,0.318387161048164,0.261712490131493,estimated,"",CBSA^ntee_broad_clean + TAXYEAR
+original_rows__common_policy__gross_zero__HHI_only,67951,67950,938,0.0585272472989735,0.0389288326087862,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_policy__net_zero__HHI_only,67951,67950,938,0.0583143806622843,0.0387115347778775,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_policy__net_active_joint__HHI_only,41904,41903,933,0.0630371807697896,0.02990919547077,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_policy__net_activity_indicators__HHI_only,67951,67950,938,0.0619000122990206,0.0423718076567968,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__gross_zero__HHI_only,41985,41983,933,0.0599676776011094,0.0275985623538272,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__gross_zero__joint,41985,41983,933,0.0600182563417696,0.0276508827251171,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_zero__HHI_only,41985,41983,933,0.0599074599320907,0.0275362711468865,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_zero__joint,41985,41983,933,0.0600683088592229,0.0277026587532062,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_active_joint__HHI_only,41626,41624,930,0.0601354781664184,0.0270334505477889,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_active_joint__joint,41626,41624,930,0.0602798060692277,0.027182861679206,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_activity_indicators__HHI_only,41985,41983,933,0.060057764078954,0.0276917508734995,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__common_coupling__net_activity_indicators__joint,41985,41983,933,0.0602195258552748,0.0278590827620979,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__outcome_2020_21__net_active_joint__HHI_only,10499,10494,932,0.122987597823081,0.0278117062850899,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__outcome_2020_21__net_activity_indicators__HHI_only,15342,15342,936,0.097321347162731,0.0401395518417197,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_2020_21__net_active_joint__HHI_only,5561,5543,929,0.234932619508522,0.0295204966128809,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_2020_21__net_activity_indicators__HHI_only,7662,7660,936,0.187092338523583,0.0422736248988276,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting20__net_active_joint__HHI_only,4057,4025,920,0.306494232409805,0.0329832764463052,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting20__net_activity_indicators__HHI_only,4281,4260,925,0.30041223556737,0.0402875208634491,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting30__net_active_joint__HHI_only,2457,2309,860,0.405499353621862,0.0350634686064892,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting30__net_activity_indicators__HHI_only,2616,2484,877,0.400026900418193,0.0434761192006211,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting40__net_active_joint__HHI_only,1316,1055,669,0.466071609169252,0.0216299869542613,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__predictor_reporting40__net_activity_indicators__HHI_only,1429,1158,705,0.437794553310522,0.0211229945498019,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+original_rows__strict_revenue95__net_active_joint__HHI_only,2930,2747,647,0.219917500809286,0.0651492363597916,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__strict_revenue95__net_activity_indicators__HHI_only,3227,3048,668,0.22087445206137,0.0727260190602825,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__strict_revenue100__net_active_joint__HHI_only,501,433,165,0.336457962852338,0.0943236007225783,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__strict_revenue100__net_activity_indicators__HHI_only,728,637,224,0.336028585606898,0.110495952296893,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__no_floor_in_predictor__net_active_joint__HHI_only,40800,40799,933,0.0628831922426426,0.0300719249672947,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__no_floor_in_predictor__net_activity_indicators__HHI_only,66845,66844,938,0.0618574489211772,0.0424680568882098,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__side_specific__private,67325,67325,937,0.0585410537910731,0.0386751029022154,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__side_specific__public,42460,42459,936,0.0622097124414124,0.0308057568325041,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+original_rows__side_specific__client,61607,61606,938,0.0507281939252272,0.0302212322053573,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__full__gross_zero__HHI_only,67951,67950,938,0.0556684318015972,0.0374831258744807,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__full__net_zero__HHI_only,67951,67950,938,0.0555457840286483,0.037358116232727,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__full__net_active_joint__HHI_only,41897,41896,933,0.0572843282205192,0.027945046573105,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__full__net_activity_indicators__HHI_only,67951,67950,938,0.0590032525935451,0.0408821664154616,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__full__net_activity_indicators__CBSA_sector_FE,67951,67886,938,0.315938790054748,0.257978359899721,estimated,"",CBSA^ntee_broad_clean + TAXYEAR
+selected_policy__common_policy__gross_zero__HHI_only,67951,67950,938,0.0556684318015972,0.0374831258744807,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_policy__net_zero__HHI_only,67951,67950,938,0.0555457840286483,0.037358116232727,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_policy__net_active_joint__HHI_only,41897,41896,933,0.0572843282205192,0.027945046573105,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_policy__net_activity_indicators__HHI_only,67951,67950,938,0.0590032525935451,0.0408821664154616,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__gross_zero__HHI_only,41960,41958,933,0.0541309591185637,0.0257271837501583,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__gross_zero__joint,41960,41958,933,0.0541810784977722,0.0257788081787205,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_zero__HHI_only,41960,41958,933,0.0540475193818354,0.0256412383774103,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_zero__joint,41960,41958,933,0.0542153509098566,0.0258141097669932,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_active_joint__HHI_only,41601,41599,930,0.0536369845924143,0.0250678579347932,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_active_joint__joint,41601,41599,930,0.0538044807156583,0.025240410487633,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_activity_indicators__HHI_only,41960,41958,933,0.0541718414916338,0.0257692937918498,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__common_coupling__net_activity_indicators__joint,41960,41958,933,0.0543405242015915,0.025943041923758,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__outcome_2020_21__net_active_joint__HHI_only,10491,10486,932,0.127016311512137,0.0265710809166451,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__outcome_2020_21__net_activity_indicators__HHI_only,15334,15334,936,0.0998734909539302,0.0396953987075377,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_2020_21__net_active_joint__HHI_only,5556,5538,929,0.233009199042195,0.026594428025088,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_2020_21__net_activity_indicators__HHI_only,7657,7655,936,0.184566544183097,0.039542117281588,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting20__net_active_joint__HHI_only,4040,4007,920,0.303350822975667,0.0294528717772903,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting20__net_activity_indicators__HHI_only,4264,4242,925,0.293932744025744,0.0386339424037058,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting30__net_active_joint__HHI_only,2429,2281,858,0.404997135167846,0.0289997131946816,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting30__net_activity_indicators__HHI_only,2589,2457,875,0.390278170088208,0.0411574709302377,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting40__net_active_joint__HHI_only,1306,1048,663,0.469653034690912,0.0161341964872704,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__predictor_reporting40__net_activity_indicators__HHI_only,1419,1153,698,0.4335071513583,0.021677649913855,estimated,log_pop;log_mhi_real_2022;poverty_rate;unemployment_rate,CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__strict_revenue95__net_active_joint__HHI_only,2921,2738,645,0.222927517632131,0.0684514981968668,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__strict_revenue95__net_activity_indicators__HHI_only,3218,3040,666,0.232280146586105,0.0777803353241211,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__strict_revenue100__net_active_joint__HHI_only,501,433,165,0.353949680374378,0.104887365197994,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__strict_revenue100__net_activity_indicators__HHI_only,728,637,224,0.339101850610719,0.104007938718341,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__no_floor_in_predictor__net_active_joint__HHI_only,40802,40801,933,0.0572846695498102,0.0281279397070324,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__no_floor_in_predictor__net_activity_indicators__HHI_only,66854,66853,938,0.0590386653170003,0.0409875369231415,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__side_specific__private,67307,67307,937,0.0545360202721796,0.0360365747687519,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__side_specific__public,42434,42433,936,0.0577178793845144,0.0295817202351947,estimated,"",CBSA + ntee_broad_clean + TAXYEAR
+selected_policy__side_specific__client,61589,61588,938,0.0468706950004351,0.0284883213369189,estimated,"",CBSA + ntee_broad_clean + TAXYEAR

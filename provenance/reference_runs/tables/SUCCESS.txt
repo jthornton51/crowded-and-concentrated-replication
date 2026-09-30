@@ -1,0 +1,3 @@
+Completed combined-policy descriptive checks and generated tables.
+Six headline rows reproduced within 1e-9.
+2026-09-30 09:58:24

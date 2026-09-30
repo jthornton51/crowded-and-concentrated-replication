@@ -1,0 +1,301 @@
+{
+  "coupling": {
+    "checks": [
+      {
+        "file": "available_sample_means.csv",
+        "rows": 420,
+        "cells": 2100,
+        "mismatches": 0
+      },
+      {
+        "file": "common_policy_coupling.csv",
+        "rows": 3,
+        "cells": 63,
+        "mismatches": 0
+      },
+      {
+        "file": "duplicate_grant_lookup_used.csv",
+        "rows": 46158,
+        "cells": 646212,
+        "mismatches": 0
+      },
+      {
+        "file": "paired_coupling.csv",
+        "rows": 105,
+        "cells": 2205,
+        "mismatches": 0
+      },
+      {
+        "file": "reference_coupling_validation.csv",
+        "rows": 9,
+        "cells": 45,
+        "mismatches": 0
+      },
+      {
+        "file": "reference_market_validation.csv",
+        "rows": 7,
+        "cells": 14,
+        "mismatches": 0
+      },
+      {
+        "file": "scenario_audit.csv",
+        "rows": 3,
+        "cells": 21,
+        "mismatches": 0
+      },
+      {
+        "file": "selected_policy_validation.csv",
+        "rows": 1,
+        "cells": 4,
+        "mismatches": 0
+      }
+    ],
+    "failures": []
+  },
+  "growth": {
+    "checks": [
+      {
+        "file": "active_hhi_centers.csv",
+        "rows": 66,
+        "cells": 330,
+        "mismatches": 0
+      },
+      {
+        "file": "coefficients.csv",
+        "rows": 618,
+        "cells": 4944,
+        "mismatches": 0
+      },
+      {
+        "file": "combined_correction_headlines.csv",
+        "rows": 6,
+        "cells": 36,
+        "mismatches": 0
+      },
+      {
+        "file": "iqr_effects.csv",
+        "rows": 227,
+        "cells": 1362,
+        "mismatches": 0
+      },
+      {
+        "file": "model_samples.csv",
+        "rows": 77,
+        "cells": 693,
+        "mismatches": 0
+      },
+      {
+        "file": "reference_model_validation.csv",
+        "rows": 15,
+        "cells": 90,
+        "mismatches": 0
+      }
+    ],
+    "failures": []
+  },
+  "sensitivity": {
+    "checks": [
+      {
+        "file": "largest_floor_market_years.csv",
+        "rows": 50,
+        "cells": 400,
+        "mismatches": 0
+      },
+      {
+        "file": "paired_sensitivities.csv",
+        "rows": 24,
+        "cells": 432,
+        "mismatches": 0
+      }
+    ],
+    "failures": []
+  },
+  "tables": {
+    "checks": [
+      {
+        "file": "active_side_composition.csv",
+        "rows": 21,
+        "cells": 105,
+        "mismatches": 0
+      },
+      {
+        "file": "bimodality.csv",
+        "rows": 45,
+        "cells": 405,
+        "mismatches": 0
+      },
+      {
+        "file": "concordance_all_samples.csv",
+        "rows": 105,
+        "cells": 2205,
+        "mismatches": 0
+      },
+      {
+        "file": "descriptives_by_ntee_broad_clean.csv",
+        "rows": 81,
+        "cells": 648,
+        "mismatches": 0
+      },
+      {
+        "file": "descriptives_by_size.csv",
+        "rows": 54,
+        "cells": 432,
+        "mismatches": 0
+      },
+      {
+        "file": "descriptives_by_TAXYEAR.csv",
+        "rows": 90,
+        "cells": 720,
+        "mismatches": 0
+      },
+      {
+        "file": "descriptives_overall.csv",
+        "rows": 9,
+        "cells": 63,
+        "mismatches": 0
+      },
+      {
+        "file": "growth_display.csv",
+        "rows": 13,
+        "cells": 130,
+        "mismatches": 0
+      },
+      {
+        "file": "headline.csv",
+        "rows": 6,
+        "cells": 36,
+        "mismatches": 0
+      },
+      {
+        "file": "headline_validation.csv",
+        "rows": 6,
+        "cells": 60,
+        "mismatches": 0
+      },
+      {
+        "file": "public_boundary_by_reporting.csv",
+        "rows": 3,
+        "cells": 9,
+        "mismatches": 0
+      },
+      {
+        "file": "reporting_threshold_concentration.csv",
+        "rows": 45,
+        "cells": 315,
+        "mismatches": 0
+      }
+    ],
+    "failures": []
+  },
+  "exhibits": {
+    "checks": [
+      {
+        "file": "bimodality_by_sector.csv",
+        "rows": 27,
+        "cells": 162,
+        "mismatches": 0
+      },
+      {
+        "file": "bimodality_by_size.csv",
+        "rows": 18,
+        "cells": 108,
+        "mismatches": 0
+      },
+      {
+        "file": "filing_size.csv",
+        "rows": 2,
+        "cells": 8,
+        "mismatches": 0
+      },
+      {
+        "file": "health_growth.csv",
+        "rows": 38,
+        "cells": 304,
+        "mismatches": 0
+      },
+      {
+        "file": "hhi_cr4_check.csv",
+        "rows": 3,
+        "cells": 6,
+        "mismatches": 0
+      },
+      {
+        "file": "reporting_annual.csv",
+        "rows": 20,
+        "cells": 240,
+        "mismatches": 0
+      },
+      {
+        "file": "reporting_original_by_year_form.csv",
+        "rows": 20,
+        "cells": 200,
+        "mismatches": 0
+      },
+      {
+        "file": "reporting_selected_by_year_form.csv",
+        "rows": 20,
+        "cells": 200,
+        "mismatches": 0
+      },
+      {
+        "file": "sample_counts.csv",
+        "rows": 1,
+        "cells": 6,
+        "mismatches": 0
+      },
+      {
+        "file": "table1_sector.csv",
+        "rows": 9,
+        "cells": 144,
+        "mismatches": 0
+      },
+      {
+        "file": "table2_recent_sector.csv",
+        "rows": 9,
+        "cells": 126,
+        "mismatches": 0
+      },
+      {
+        "file": "table3_hhi_correlations.csv",
+        "rows": 9,
+        "cells": 36,
+        "mismatches": 0
+      }
+    ],
+    "failures": []
+  },
+  "figures": [
+    {
+      "file": "appendix_b1.png",
+      "byte_identical": true
+    },
+    {
+      "file": "appendix_b2.png",
+      "byte_identical": true
+    },
+    {
+      "file": "figure1.png",
+      "byte_identical": true
+    },
+    {
+      "file": "figure2.png",
+      "byte_identical": true
+    },
+    {
+      "file": "figure3.png",
+      "byte_identical": true
+    }
+  ],
+  "seconds": 471.55,
+  "output_directories": {
+    "coupling": "output\\revisions\\NVSQ_R2_2026-09\\rebuild\\coupling_20260930_120015",
+    "growth": "output\\revisions\\NVSQ_R2_2026-09\\rebuild\\net_growth_20260930_120702",
+    "sensitivity": "output\\revisions\\NVSQ_R2_2026-09\\rebuild\\coupling_sensitivity_20260930_120728",
+    "tables": "output\\revisions\\NVSQ_R2_2026-09\\rebuild\\combined_tables_20260930_120731",
+    "exhibits": "verification\\20260930_120015\\exhibits"
+  },
+  "numeric_failures": 0,
+  "cells_checked": 665619,
+  "files_checked": 40,
+  "verification_note": "A historical old/new alignment report was incorrectly included as an expected analysis output in the first comparison. It is preserved as evidence but excluded from analysis-product checks. No analytic computation or numerical target changed."
+}

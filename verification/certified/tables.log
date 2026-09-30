@@ -1,0 +1,40 @@
+Warning messages:
+1: package 'data.table' was built under R version 4.6.1 
+2: package 'diptest' was built under R version 4.6.1 
+n = 76477 >= max_n{n in table} = 72000 -- using that as asymptotic value.
+n = 76466 >= max_n{n in table} = 72000 -- using that as asymptotic value.
+[1] TRUE
+          scenario    side N_markets N_active  mean_hhi median_hhi    sd_hhi
+            <char>  <char>     <int>    <int>     <num>      <num>     <num>
+1: selected_policy private     77489    76466 0.4252215  0.3422899 0.2977717
+2: selected_policy  public     77489    48575 0.6159776  0.5875161 0.3178759
+3: selected_policy  client     77489    69548 0.5437692  0.5003132 0.3185058
+      side     N  mean_hhi pct_hhi_eq1        BC     dip_p          diagnostic
+    <char> <int>     <num>       <num>     <num>     <num>              <char>
+1: private 41828 0.2518958  0.01912594 0.6352164 1.0000000               mixed
+2:  public 36742 0.5294058 13.45054706 0.5919705 0.0000000  boundary-sensitive
+3:  client 41780 0.3845890  0.49545237 0.6219458 0.0000000 both tests positive
+4: private  5479 0.2468567  0.00000000 0.6341123 0.9906127               mixed
+5:  public  5470 0.3758279  0.63985375 0.5562308 0.9761144               mixed
+6:  client  5482 0.3692397  0.21889821 0.6185789 0.9394333               mixed
+          scenario                        sample
+            <char>                        <char>
+1: selected_policy                        n_ge10
+2: selected_policy                        n_ge10
+3: selected_policy                        n_ge10
+4: selected_policy high_reporting_2020_21_n_ge10
+5: selected_policy high_reporting_2020_21_n_ge10
+6: selected_policy high_reporting_2020_21_n_ge10
+       reporting_group market_years pct_hhi_eq1
+                <char>        <int>       <num>
+1: at least 20% report         5470   0.6398537
+2:    below 20% report         2483  21.0229561
+3:                 all         7953   7.0036464
+   min_reporting_pct sectors private_lowest
+               <num>   <int>          <int>
+1:                 0       9              9
+2:                20       9              9
+3:                30       9              9
+4:                40       9              9
+5:                50       9              9
+OUTPUT: <PACKAGE_ROOT>\output\revisions\NVSQ_R2_2026-09\rebuild/combined_tables_20260930_120731 

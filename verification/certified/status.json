@@ -1,0 +1,27 @@
+[
+  {
+    "stage": "coupling",
+    "exit_code": 0,
+    "seconds": 406.77
+  },
+  {
+    "stage": "growth",
+    "exit_code": 0,
+    "seconds": 26.23
+  },
+  {
+    "stage": "sensitivity",
+    "exit_code": 0,
+    "seconds": 3.28
+  },
+  {
+    "stage": "tables",
+    "exit_code": 0,
+    "seconds": 1.88
+  },
+  {
+    "stage": "exhibits",
+    "exit_code": 0,
+    "seconds": 32.66
+  }
+]
